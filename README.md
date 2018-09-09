@@ -1,5 +1,5 @@
 # SendGet
-Example:
+##Example:
 ```
 MyGetGet.Init("mysite.com");
 MyGetGet.SendGet("test.php?user=test", myotvet);
