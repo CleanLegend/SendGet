@@ -1,4 +1,4 @@
-# SendGet
+
 ## Example:
 ```
 MyGetGet.Init("mysite.com");
